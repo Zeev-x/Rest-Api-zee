@@ -1,5 +1,5 @@
 {
-  "name": "api-zeeoneofc",
+  "name": "zee-RestApi",
   "version": "1.1.0",
   "description": "My Rest Api Projectttttt",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "rest",
     "api"
   ],
-  "author": "zeeone",
+  "author": "zeevalya",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc/api-zeeoneofc/issues"
